@@ -27,7 +27,7 @@ phases:
     commands:
       # Perform Code quality checks:
       - echo Checking code style...
-      #      - npm run lint
+      - npm run lint
 
       - echo Running unit tests...
       #      - npm run test:ci
